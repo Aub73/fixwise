@@ -1,2 +1,2 @@
-# Fixwise Landing Page
-A simple Next.js landing page for the Fixwise platform.
+# Fixwise Full Web App
+This is the full Fixwise platform web app with job logic, dashboards, and profiles.

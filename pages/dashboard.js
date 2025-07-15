@@ -1,11 +1,11 @@
 import Navbar from "../components/Navbar";
-export default function Index() {
+export default function Dashboard() {
   return (
     <div>
       <Navbar />
       <main style={{ padding: "2rem" }}>
-        <h1>Index Page</h1>
-        <p>This is the index page of Fixwise.</p>
+        <h1>Dashboard Page</h1>
+        <p>This is the dashboard page of Fixwise.</p>
       </main>
     </div>
   );
